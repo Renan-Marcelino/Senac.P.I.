@@ -4,6 +4,6 @@ class Main {
     int num2 = 9;
     int num3 = 7; 
     int media = (num1+num2+num3)/3;
-    System.out.println(media);
+    System.out.println("media: " + media);
   }
 }
